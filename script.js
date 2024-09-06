@@ -8,7 +8,7 @@ function scroll() {
         }
     })
 
-    if (mapa.getBoundingClientRect().top < 500) {
+    if (mapa.getBoundingClientRect().top < 700) {
         mapa.classList.add('transition')
     }
 }
