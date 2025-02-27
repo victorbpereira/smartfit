@@ -1,6 +1,6 @@
 
 
-<h1>Tecnologias usadas</h1>
+<h1>Tecnologias usadas ✯</h1>
 
 <div style="display: inline-block;"><br/>
   <img align="start" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="">
